@@ -24,31 +24,41 @@ img{
     width: 100%;
     
 }
+header{
+    margin: 0 auto;
+}
 #logotipo{
     width:5%;
 }
 
 
-.sobre{
-    height: 600px;
-    margin-top: 60px;
+.our-concept{
+    height: 400px;
+    margin: 60px 50px;
 }
 footer{
     background-color: #F6DE00;
-    height: 150px;
+    height: 160px;
+    margin-top: 50px;
+    
+    bottom: 0;
 }
-body{
+
+#contact-area{
+    text-align:center;
+    margin-top:30px;
+}
+
+#copy-area{
+    margin-top: 10;
+    margin-bottom: 0;
+}
+.contact-box{
    
 }
-div #iconesrs{
-    
-    width: 100%;
-
+.contact-box p {
+    font-size: 16px;
 }
-
-footer section{
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: smaller;
-    margin-top: 20px;
-    align-items:end;
+.contact-title {
+    font-weight: bold;
 }
