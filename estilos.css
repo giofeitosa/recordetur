@@ -38,7 +38,7 @@ footer{
     height: 150px;
 }
 body{
-    font-family: sans-serif;
+   
 }
 div #iconesrs{
     
@@ -47,7 +47,8 @@ div #iconesrs{
 }
 
 footer section{
-
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: smaller;
     margin-top: 20px;
     align-items:end;
 }
